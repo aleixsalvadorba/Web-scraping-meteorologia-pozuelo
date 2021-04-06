@@ -12,7 +12,7 @@ El grupo para realizar esta práctica esta formado por **Aleix Salvador Barrera*
 
 Los ficheros que podemos encontrar en este repositorio son:
 
-* **PRA1_ASB_VMH.pdf**:
-* **PRACTICA1_Salvador_Miranda.ipynb**:
-* **datos_meteorologicos_pozuelo_dataset.csv**:
-* **DOI**:
+* **PRA1_ASB_VMH.pdf**: documento pdf con las respuestas a las preguntas formuladas en el enunciado de esta primera práctica de la asignatura.
+* **PRACTICA1_Salvador_Miranda.ipynb**: archivo (con extensión .ipynb) en el cual se encuentra el código de python utilizado para realizar la extracción (web scraping) de la información de la página web de la estación meteorológica de Pozuelo de Alarcón (Madrid).
+* **datos_meteorologicos_pozuelo_dataset.csv**: dataset (en formato csv) que contiene la información extraída mediante web scraping de la web de la estación meteorológica de Pozuelo de Alarcón (Madrid).
+* **DOI**: Archivo de texto que contiene el DOI obtenido después de publicar el dataset en Zenodo.
